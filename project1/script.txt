@@ -1,0 +1,3 @@
+C:\\Windows\\System32\\notepad.exe script.txt
+C:\\Windows\\System32\\SnippingTool.exe
+C:\\Windows\\System32\\charmap.exe
